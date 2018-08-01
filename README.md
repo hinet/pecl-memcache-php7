@@ -1,6 +1,6 @@
 # pecl-memcache-php7
 
-memcached module for PHP
+[memcached module for PHP](https://github.com/websupport-sk/pecl-memcache)
 ------------------------
 This module requires zlib library, used for on-the-fly data (de)compression.
 Also, you'll need memcached to use it =)
